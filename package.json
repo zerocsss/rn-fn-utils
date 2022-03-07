@@ -1,0 +1,23 @@
+{
+  "name": "rn-fn-utils",
+  "version": "1.0.0",
+  "description": "react native 常用工具函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerocsss/rn-fn-utils.git"
+  },
+  "keywords": [
+    "react",
+    "native"
+  ],
+  "author": "cshuai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerocsss/rn-fn-utils/issues"
+  },
+  "homepage": "https://github.com/zerocsss/rn-fn-utils#readme"
+}
